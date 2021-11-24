@@ -1,5 +1,8 @@
 .App {
   height: 40vmin;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
 }
 img {
   width: 40px;
